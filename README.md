@@ -3,15 +3,18 @@
 # Project Overview
 This Excel project provides a comprehensive analysis of hotel booking cancellations. The dataset includes various details about the bookings, such as the type of hotel, cancellation status, guest demographics, and more. The project comprises three main components:
 
-Raw Data: The original dataset containing all the booking details.
+Raw Data: The original dataset containing all the booking details.Transform it into useful dataset.
 Pivot Table: A summary table that aggregates the data for deeper insights.
 Dashboard: A visual representation of the key metrics and trends.
+
+# Dataset 
+Download csv file under the repository with name "hotel_bookingsDataset.csv"
 
 # File Structure
 The Excel file consists of the following sheets:
 
 1. hotel_booking
-This sheet contains the raw data of hotel bookings with the following columns:
+This sheet contains the  data of hotel bookings (after cleaning original raw dataset) with the following columns:
  - hotel: Type of hotel (e.g., Resort Hotel, City Hotel)
  - is_canceled: Cancellation status (0 for not canceled, 1 for canceled)
  - arrival_date_year: Year of arrival
