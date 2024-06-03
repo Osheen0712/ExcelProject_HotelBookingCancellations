@@ -1,11 +1,12 @@
 ## Hotel Booking Cancellations Dashboard
 
 # Project Overview
-This Excel project provides a comprehensive analysis of hotel booking cancellations. The dataset includes various details about the bookings, such as the type of hotel, cancellation status, guest demographics, and more. The project comprises three main components:
+This Excel project provides a comprehensive analysis of hotel booking cancellations. The dataset includes various details about the bookings, such as the type of hotel, cancellation status, guest demographics, and more.
+The project comprises three main components:
 
-Raw Data: The original dataset containing all the booking details.Transform it into useful dataset.
-Pivot Table: A summary table that aggregates the data for deeper insights.
-Dashboard: A visual representation of the key metrics and trends.
+- Raw Data: The original dataset containing all the booking details.Transform it into useful dataset.
+- Pivot Table: A summary table that aggregates the data for deeper insights.
+- Dashboard: A visual representation of the key metrics and trends.
 
 # Dataset 
 Download csv file under the repository with name "hotel_bookingsDataset.csv"
